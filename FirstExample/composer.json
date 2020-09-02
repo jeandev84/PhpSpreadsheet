@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src",
+            "App\\": "app"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.14",
+        "symfony/var-dumper": "^5.1"
+    }
+}
